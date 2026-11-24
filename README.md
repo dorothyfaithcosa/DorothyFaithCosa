@@ -1,8 +1,6 @@
 # Hi, I'm Dorothy Faith Cosa 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/192dd625-67eb-4d88-b98b-b56a42790781" alt="Dorothy Faith Cosa" width="180" />
-</p>
 
 ## About Me
 I am Dorothy Faith Cosa, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
